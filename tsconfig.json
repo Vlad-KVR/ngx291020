@@ -16,5 +16,15 @@
       "es2018",
       "dom"
     ]
+  },
+  "strict": true,
+  "noUnusedLocals": true,
+  "noUnusedParameters": true,
+  "angularCompilerOptions": {
+    "strictInjectionParameters": true,
+    "strictTemplates": true,
+    "preserveWhitespaces": true,
+    "fullTemplateTypeCheck": true,
+    "enableIvy": true
   }
 }
